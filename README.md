@@ -1,4 +1,4 @@
-# keypadLockWithServo
+# keypadlock-with-servo-and-LCDscreen
 
 Maskinvareoppsett: 5V-Micro-servo, 5V-LCD skjerm, Keypad 4x4, og en Arduino UNO mikrokontroller<br>
 
